@@ -1,8 +1,8 @@
-# magic_8_ball_flutter
+# Magic 8 Ball in Flutter
 
 A stateful Flutter app.
 
-<div><img alt='' href="https://user-images.githubusercontent.com/61710830/100433794-de259080-309b-11eb-83eb-8dcafc2db84d.png" width="360px"/></div>
+<div><img alt='' src="https://user-images.githubusercontent.com/61710830/100433794-de259080-309b-11eb-83eb-8dcafc2db84d.png" width="350px"/></div>
 
 ## Getting Started
 
